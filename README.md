@@ -1,6 +1,6 @@
 # Omprakash Khandale
 
-Frontend developer focused on building clean, responsive, product-style web interfaces.
+UI/UX designer and frontend developer focused on building clean, responsive, product-style web interfaces.
 
 I enjoy turning UI ideas into working React applications with attention to layout, interaction, and real user flows. My current work is centered around dashboard interfaces, ecommerce experiences, utility apps, and polished landing page interactions.
 
