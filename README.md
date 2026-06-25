@@ -43,6 +43,13 @@
 **Backend and Database:** Node.js, Express, Prisma, PostgreSQL, MariaDB, JWT, Bcrypt, CORS, Helmet  
 **Tooling:** Git, Vercel, ESLint, Prettier, Storybook, Vitest, Playwright, tsup, PostCSS
 
+## UI/UX Skills
+
+**Design:** User interface design, responsive layouts, dashboard design, design systems, component libraries  
+**UX:** User flows, wireframes, interaction design, usability-focused layouts, information architecture  
+**Visual:** Typography, spacing, color systems, visual hierarchy, micro-interactions, mobile-first design  
+**Tools:** Figma, FigJam, GitHub, Vercel, Storybook, browser dev tools
+
 ## Current Direction
 
 I am building a stronger frontend portfolio around product-quality interfaces, UI/UX thinking, and React-based implementation. My goal is to contribute to teams where design detail, usability, and frontend craft matter.
