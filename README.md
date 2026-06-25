@@ -51,12 +51,12 @@ I am building a stronger frontend portfolio around product-quality interfaces, U
 
 Some of my work is private, so this profile highlights the public projects that best represent my frontend direction. I can share additional project context, case-study notes, or walkthroughs when appropriate.
 
-## Profile Snapshot
+## Quick View
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=OmKhandale05&show_icons=true&hide_title=true&hide_border=true&theme=default" alt="GitHub stats for OmKhandale05" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmKhandale05&layout=compact&hide_border=true&theme=default" alt="Top languages for OmKhandale05" />
-</p>
+- I design interfaces with a focus on clarity, spacing, responsiveness, and practical user flows.
+- I build frontend projects from UI idea to working React implementation.
+- I care about product feel: clean layouts, useful interactions, and details that make an app feel complete.
+- I am currently improving my portfolio with stronger case studies, live demos, and polished public repositories.
 
 ## Connect
 
