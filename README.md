@@ -77,6 +77,12 @@ I am building a stronger frontend portfolio around product-quality interfaces, U
 
 Some of my work is private, so this profile highlights the public projects that best represent my frontend direction. I can share additional project context, case-study notes, or walkthroughs when appropriate.
 
+## Freelance / Collaboration
+
+I am open to freelance UI/UX and frontend projects, especially landing pages, dashboards, product interfaces, and React-based web apps.
+
+If you have an idea and need help shaping the design or building the frontend, feel free to reach out. I enjoy working on clean, useful interfaces that feel polished and easy to use.
+
 ## Connect
 
 <p>
