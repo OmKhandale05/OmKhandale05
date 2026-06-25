@@ -1,25 +1,45 @@
 # Omprakash Khandale
 
-<h3 align="center">UI/UX Designer + Frontend Developer</h3>
+<div align="center">
+  <h3>UI/UX Designer + Frontend Developer</h3>
+  <p>
+    I design and build clean, responsive, product-style web interfaces for dashboards, ecommerce, utilities, and landing page experiences.
+  </p>
+  <p>
+    <a href="https://github.com/OmKhandale05?tab=repositories"><strong>View Projects</strong></a>
+    &nbsp;&nbsp;|&nbsp;&nbsp;
+    <a href="https://github.com/OmKhandale05/finance-tracker-react-app"><strong>Featured App</strong></a>
+    &nbsp;&nbsp;|&nbsp;&nbsp;
+    <strong>Open to UI/UX and frontend opportunities</strong>
+  </p>
+</div>
 
-<p align="center">
-  I design and build clean, responsive, product-style web interfaces for dashboards, ecommerce, utilities, and landing page experiences.
-</p>
+---
 
-<p align="center">
-  <a href="https://github.com/OmKhandale05?tab=repositories">View Projects</a>
-  ·
-  <a href="https://github.com/OmKhandale05/finance-tracker-react-app">Featured App</a>
-  ·
-  Open to UI/UX and frontend opportunities
-</p>
+## Overview
 
-## What I Build
-
-- Responsive web applications with React and JavaScript
-- Product dashboards, finance tools, ecommerce screens, and utility apps
-- UI experiments with animation, scroll effects, and landing page interactions
-- Interfaces that balance visual polish with practical frontend implementation
+<table>
+  <tr>
+    <td width="50%">
+      <strong>Product UI</strong><br />
+      Dashboards, ecommerce flows, utility apps, and responsive web interfaces.
+    </td>
+    <td width="50%">
+      <strong>Frontend Build</strong><br />
+      React and Next.js interfaces with reusable components and clean implementation.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <strong>UI/UX Thinking</strong><br />
+      Layout clarity, user flows, spacing, typography, and mobile-first decisions.
+    </td>
+    <td width="50%">
+      <strong>Interaction Detail</strong><br />
+      Motion, forms, drag-and-drop, charts, and app-like product experiences.
+    </td>
+  </tr>
+</table>
 
 ## Selected Public Work
 
@@ -34,18 +54,22 @@
 
 ## Tech Stack
 
-**Core:** React, Next.js, JavaScript, TypeScript, HTML5, CSS3  
-**Styling:** Tailwind CSS, Radix UI, Lucide React, CSS Modules  
-**Frontend Tools:** Vite, Git, Vercel, ESLint, Prettier  
-**UI Libraries:** React Hook Form, Zod, Zustand, Framer Motion, GSAP, dnd-kit, Recharts  
-**Component Work:** Storybook, design systems, reusable components, responsive UI patterns
+| Area | Tools |
+| --- | --- |
+| Core | React, Next.js, JavaScript, TypeScript, HTML5, CSS3 |
+| Styling | Tailwind CSS, Radix UI, Lucide React, CSS Modules |
+| Frontend Tools | Vite, Git, Vercel, ESLint, Prettier |
+| UI Libraries | React Hook Form, Zod, Zustand, Framer Motion, GSAP, dnd-kit, Recharts |
+| Component Work | Storybook, design systems, reusable components, responsive UI patterns |
 
 ## UI/UX Skills
 
-**Design:** User interface design, responsive layouts, dashboard design, design systems, component libraries  
-**UX:** User flows, wireframes, interaction design, usability-focused layouts, information architecture  
-**Visual:** Typography, spacing, color systems, visual hierarchy, micro-interactions, mobile-first design  
-**Tools:** Figma, FigJam, GitHub, Vercel, Storybook, browser dev tools
+| Skill Area | Focus |
+| --- | --- |
+| Design | User interface design, responsive layouts, dashboard design, design systems |
+| UX | User flows, wireframes, interaction design, usability-focused layouts |
+| Visual Craft | Typography, spacing, color systems, visual hierarchy, micro-interactions |
+| Tools | Figma, FigJam, GitHub, Vercel, Storybook, browser dev tools |
 
 ## Current Direction
 
@@ -53,14 +77,10 @@ I am building a stronger frontend portfolio around product-quality interfaces, U
 
 Some of my work is private, so this profile highlights the public projects that best represent my frontend direction. I can share additional project context, case-study notes, or walkthroughs when appropriate.
 
-## Quick View
-
-- I design interfaces with a focus on clarity, spacing, responsiveness, and practical user flows.
-- I build frontend projects from UI idea to working React implementation.
-- I care about product feel: clean layouts, useful interactions, and details that make an app feel complete.
-- I am currently improving my portfolio with stronger case studies, live demos, and polished public repositories.
-
 ## Connect
 
-- GitHub: [OmKhandale05](https://github.com/OmKhandale05)
-- Repositories: [View projects](https://github.com/OmKhandale05?tab=repositories)
+<p>
+  <a href="https://github.com/OmKhandale05">GitHub Profile</a>
+  &nbsp;|&nbsp;
+  <a href="https://github.com/OmKhandale05?tab=repositories">View Repositories</a>
+</p>
