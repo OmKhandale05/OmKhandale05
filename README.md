@@ -89,4 +89,6 @@ If you have an idea and need help shaping the design or building the frontend, f
   <a href="https://github.com/OmKhandale05">GitHub Profile</a>
   &nbsp;|&nbsp;
   <a href="https://github.com/OmKhandale05?tab=repositories">View Repositories</a>
+  &nbsp;|&nbsp;
+  <a href="mailto:omprakashkhandale5@gmail.com">Email Me</a>
 </p>
