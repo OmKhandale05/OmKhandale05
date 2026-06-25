@@ -34,14 +34,11 @@
 
 ## Tech Stack
 
-**Frontend:** React, Next.js, Vite, JavaScript, TypeScript, HTML5, CSS3  
-**Styling and UI:** Tailwind CSS, Radix UI, Lucide React, React Icons, Class Variance Authority, Tailwind Merge, CLSX  
-**State and Data:** Zustand, Redux Toolkit, TanStack Query, Axios  
-**Forms and Validation:** React Hook Form, Zod, Hookform Resolvers  
-**Motion and 3D:** Framer Motion, GSAP, Three.js, React Three Fiber, Drei, Mouse Follower  
-**Product Features:** dnd-kit, Recharts, Leaflet, React Leaflet, Swiper, jsPDF, PapaParse, Cmdk  
-**Backend and Database:** Node.js, Express, Prisma, PostgreSQL, MariaDB, JWT, Bcrypt, CORS, Helmet  
-**Tooling:** Git, Vercel, ESLint, Prettier, Storybook, Vitest, Playwright, tsup, PostCSS
+**Core:** React, Next.js, JavaScript, TypeScript, HTML5, CSS3  
+**Styling:** Tailwind CSS, Radix UI, Lucide React, CSS Modules  
+**Frontend Tools:** Vite, Git, Vercel, ESLint, Prettier  
+**UI Libraries:** React Hook Form, Zod, Zustand, Framer Motion, GSAP, dnd-kit, Recharts  
+**Component Work:** Storybook, design systems, reusable components, responsive UI patterns
 
 ## UI/UX Skills
 
