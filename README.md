@@ -1,19 +1,17 @@
 # Omprakash Khandale
 
-UI/UX designer and frontend developer focused on building clean, responsive, product-style web interfaces.
+<h3 align="center">UI/UX Designer + Frontend Developer</h3>
 
-I enjoy turning UI ideas into working React applications with attention to layout, interaction, and real user flows. My current work is centered around dashboard interfaces, ecommerce experiences, utility apps, and polished landing page interactions.
+<p align="center">
+  I design and build clean, responsive, product-style web interfaces for dashboards, ecommerce, utilities, and landing page experiences.
+</p>
 
-<p>
-  <a href="https://github.com/OmKhandale05?tab=repositories">
-    <img src="https://img.shields.io/badge/Projects-Frontend%20UI-111827?style=for-the-badge" alt="Frontend UI projects" />
-  </a>
-  <a href="https://github.com/OmKhandale05?tab=repositories">
-    <img src="https://img.shields.io/badge/Focus-React%20%2B%20JavaScript-2563EB?style=for-the-badge" alt="React and JavaScript" />
-  </a>
-  <a href="https://github.com/OmKhandale05">
-    <img src="https://img.shields.io/badge/Open%20to-Frontend%20Roles-16A34A?style=for-the-badge" alt="Open to frontend roles" />
-  </a>
+<p align="center">
+  <a href="https://github.com/OmKhandale05?tab=repositories">View Projects</a>
+  ·
+  <a href="https://github.com/OmKhandale05/finance-tracker-react-app">Featured App</a>
+  ·
+  Open to UI/UX and frontend opportunities
 </p>
 
 ## What I Build
