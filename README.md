@@ -41,16 +41,16 @@
   </tr>
 </table>
 
-## Selected Public Work
+## Selected Work
 
 | Project | What it Shows | Links |
 | --- | --- | --- |
+| FormCraft | No-code form builder with drag-and-drop fields, form preview, validation, templates, and product-style builder UI | Private project / walkthrough available |
 | Learnly Edutech | Learning platform UI with student flows, responsive pages, and product-style frontend polish | [Code](https://github.com/OmKhandale05/edutech) / [Live](https://edutech-gamma-indol.vercel.app) |
 | Real Estate Platform | Property showcase experience with landing pages, floor plans, calculator, and map-based UI | [Code](https://github.com/OmKhandale05/realestate) / [Live](https://realestate-delta-nine.vercel.app) |
 | SaaS Dashboard | Dashboard interface focused on data layout, navigation, and operational UI patterns | [Code](https://github.com/OmKhandale05/saasdashboard) / [Live](https://saasdashboard-ochre.vercel.app) |
 | Omverse UI Docs | Documentation site for reusable UI components and design-system style presentation | [Code](https://github.com/OmKhandale05/omverse-ui-docs) / [Live](https://omverse-ui-docs.vercel.app) |
 | AasaanPay | Payment product UI prototype with multi-page flows and animated frontend interactions | [Code](https://github.com/OmKhandale05/AasaanPay) / [Live](https://aasaan-pay.vercel.app) |
-| Food Recipes | Recipe discovery interface with search, categories, favorites, and responsive card UI | [Code](https://github.com/OmKhandale05/food-recipes) / [Live](https://food-recipes-phi-sepia.vercel.app) |
 
 ## Tech Stack
 
