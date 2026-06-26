@@ -45,7 +45,7 @@
 
 | Project | What it Shows | Links |
 | --- | --- | --- |
-| FormCraft | No-code form builder with drag-and-drop fields, form preview, validation, templates, and product-style builder UI | Private project / walkthrough available |
+| FormCraft | No-code form builder with drag-and-drop fields, form preview, validation, templates, and product-style builder UI | [Live](https://formcraft-iota.vercel.app/signin) / Private code walkthrough available |
 | Learnly Edutech | Learning platform UI with student flows, responsive pages, and product-style frontend polish | [Code](https://github.com/OmKhandale05/edutech) / [Live](https://edutech-gamma-indol.vercel.app) |
 | Real Estate Platform | Property showcase experience with landing pages, floor plans, calculator, and map-based UI | [Code](https://github.com/OmKhandale05/realestate) / [Live](https://realestate-delta-nine.vercel.app) |
 | SaaS Dashboard | Dashboard interface focused on data layout, navigation, and operational UI patterns | [Code](https://github.com/OmKhandale05/saasdashboard) / [Live](https://saasdashboard-ochre.vercel.app) |
