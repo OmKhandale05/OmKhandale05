@@ -8,7 +8,7 @@
   <p>
     <a href="https://github.com/OmKhandale05?tab=repositories"><strong>View Projects</strong></a>
     &nbsp;&nbsp;|&nbsp;&nbsp;
-    <a href="https://github.com/OmKhandale05/finance-tracker-react-app"><strong>Featured App</strong></a>
+    <a href="https://github.com/OmKhandale05/edutech"><strong>Featured App</strong></a>
     &nbsp;&nbsp;|&nbsp;&nbsp;
     <strong>Open to UI/UX and frontend opportunities</strong>
   </p>
@@ -45,12 +45,12 @@
 
 | Project | What it Shows | Links |
 | --- | --- | --- |
-| Finance Tracker | Personal finance UI with transaction tracking and app-style flows | [Code](https://github.com/OmKhandale05/finance-tracker-react-app) / [Live](https://finance-tracker-react-app-puce.vercel.app) |
-| Product Store | Ecommerce product browsing experience with clean frontend structure | [Code](https://github.com/OmKhandale05/product-store) / [Live](https://product-store-alpha-sooty.vercel.app) |
-| Food Recipes | Recipe discovery interface focused on content browsing and visual layout | [Code](https://github.com/OmKhandale05/food-recipes) / [Live](https://food-recipes-phi-sepia.vercel.app) |
-| Admin Dashboard | Dashboard UI practice with data-heavy layout patterns | [Code](https://github.com/OmKhandale05/admin-dashboard) |
-| Temperature Converter | Small utility app with simple, focused interaction design | [Code](https://github.com/OmKhandale05/temperature-converter) / [Live](https://temperature-converter-beta-sand.vercel.app) |
-| GSAP Landing / Parallax UI | Motion and scroll interaction experiments for richer frontend experiences | [GSAP](https://github.com/OmKhandale05/gsap-landing) / [Parallax](https://github.com/OmKhandale05/img-parallax) |
+| Learnly Edutech | Learning platform UI with student flows, responsive pages, and product-style frontend polish | [Code](https://github.com/OmKhandale05/edutech) / [Live](https://edutech-gamma-indol.vercel.app) |
+| Real Estate Platform | Property showcase experience with landing pages, floor plans, calculator, and map-based UI | [Code](https://github.com/OmKhandale05/realestate) / [Live](https://realestate-delta-nine.vercel.app) |
+| SaaS Dashboard | Dashboard interface focused on data layout, navigation, and operational UI patterns | [Code](https://github.com/OmKhandale05/saasdashboard) / [Live](https://saasdashboard-ochre.vercel.app) |
+| Omverse UI Docs | Documentation site for reusable UI components and design-system style presentation | [Code](https://github.com/OmKhandale05/omverse-ui-docs) / [Live](https://omverse-ui-docs.vercel.app) |
+| AasaanPay | Payment product UI prototype with multi-page flows and animated frontend interactions | [Code](https://github.com/OmKhandale05/AasaanPay) / [Live](https://aasaan-pay.vercel.app) |
+| Food Recipes | Recipe discovery interface with search, categories, favorites, and responsive card UI | [Code](https://github.com/OmKhandale05/food-recipes) / [Live](https://food-recipes-phi-sepia.vercel.app) |
 
 ## Tech Stack
 
